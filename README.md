@@ -3,7 +3,7 @@ First capstone project for Springboard - Sentiment Analysis on Amazon Product re
 
 [Amazon product reviews data](http://jmcauley.ucsd.edu/data/amazon/)
 
-# Table of Contents
+# [Table of Contents](https://github.com/pravatiswain/amazon-review-sentiment)
 
 
 1. Reports
@@ -30,6 +30,6 @@ First capstone project for Springboard - Sentiment Analysis on Amazon Product re
 
 2. Notebooks
 
-    * Data Wrangling
-    * Data Storytelling
-    * Machine Learning
+    * [Data Storytelling](https://github.com/pravatiswain/amazon-review-sentiment/blob/master/Notebooks/Data%20Storytelling_Amazon_products_reviews.ipynb)
+    * [Inferential Statistics](https://github.com/pravatiswain/amazon-review-sentiment/blob/master/Notebooks/Inferential%20Statistics%20for%20Capstone%201.ipynb)
+    * [Machine Learning](https://github.com/pravatiswain/amazon-review-sentiment/tree/master/Notebooks/Machine-Learning)
