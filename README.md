@@ -1,4 +1,4 @@
-# amazon-review-sentiment-capstone
+# amazon-review-sentiment
 First capstone project for Springboard - Sentiment Analysis on Amazon Product reviews
 
 [Amazon product reviews data](http://jmcauley.ucsd.edu/data/amazon/)
