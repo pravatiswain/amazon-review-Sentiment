@@ -17,11 +17,16 @@ First capstone project for Springboard - Sentiment Analysis on Amazon Product re
     * [Statistical Data Analysis Report](https://github.com/pravatiswain/amazon-review-sentiment/blob/master/Reports/Statistical%20Data%20Analysis%20Report_%20Capstone%201.pdf)
     
     * [Milestone Report](https://github.com/pravatiswain/amazon-review-sentiment/blob/master/Reports/Milestone%20Report_%20Capstone%201.pdf)
+    
+    Report containing findings from exploratory analysis and statistical interpretation of data
 
     * [Final Report](https://github.com/pravatiswain/amazon-review-sentiment-capstone/blob/master/Reports/Capstone%201%20Final%20Report_%20Sentiment%20Analysis%20on%20Amazon%20Reviews.pdf)
+    
       Report containing explanation for data wrangling, exploratory data analysis, and machine learning on the project
       
     * [Presentation Slides Deck](https://github.com/pravatiswain/amazon-review-sentiment/blob/master/Reports/Capstone%201%20slides.pdf)
+    
+    Project presentation slides
 
 2. Notebooks
 
