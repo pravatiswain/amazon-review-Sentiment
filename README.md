@@ -6,7 +6,7 @@ First capstone project for Springboard - Sentiment Analysis on Amazon Product re
 # Table of Contents
 
 
-1. Docs
+1. Reports
 
     * [Final Report]link
     
